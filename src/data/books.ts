@@ -821,7 +821,7 @@ export const books: Book[] = [
     pages: 480,
     year: 2012,
     description: "A practical introduction to MATLAB with examples and exercises focusing on engineering problems and numerical methods.",
-    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Matlab",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/blob/main/Matlab/MATLABNotesForProfessionals.pdf",
     level: "Beginner",
     tags: ["MATLAB", "Numerical", "Engineering", "Beginner"],
   },
