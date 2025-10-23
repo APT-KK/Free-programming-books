@@ -811,6 +811,21 @@ export const books: Book[] = [
     
   },
 
+  // MATLAB / Numerical Computing
+  {
+    id: "matlab-1",
+    title: "MATLAB Programming for Engineers",
+    author: "Stephen J. Chapman",
+    category: "MATLAB",
+    language: "MATLAB",
+    pages: 480,
+    year: 2012,
+    description: "A practical introduction to MATLAB with examples and exercises focusing on engineering problems and numerical methods.",
+    downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Matlab",
+    level: "Beginner",
+    tags: ["MATLAB", "Numerical", "Engineering", "Beginner"],
+  },
+
 ];
 
 export const categories = [
@@ -832,6 +847,7 @@ export const categories = [
   "Competitive Programming",
   "Flutter Development",
   "Operating System",
+  "MATLAB",
 ];
 
 export const languages = [
@@ -843,7 +859,8 @@ export const languages = [
   "Kotlin",
   "HTML/CSS",
   "dart",
-  "General"
+  "General",
+  "MATLAB"
 ];
 
 export const levels = ["Beginner", "Intermediate", "Advanced", "All Levels"];
